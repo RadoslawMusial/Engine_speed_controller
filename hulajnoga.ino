@@ -1,3 +1,4 @@
+
 #define SIGNAL A0
 #define ANALOG_CUTOFF 50
 #define ADC_SAMPLE_CNT 25
